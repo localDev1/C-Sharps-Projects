@@ -1,0 +1,14 @@
+C:\Users\Fernando\source\repos\C-Sharps-Projects\booleanLogic\booleanLogic\bin\Debug\netcoreapp3.1\booleanLogic.exe
+C:\Users\Fernando\source\repos\C-Sharps-Projects\booleanLogic\booleanLogic\bin\Debug\netcoreapp3.1\booleanLogic.deps.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\booleanLogic\booleanLogic\bin\Debug\netcoreapp3.1\booleanLogic.runtimeconfig.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\booleanLogic\booleanLogic\bin\Debug\netcoreapp3.1\booleanLogic.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\booleanLogic\booleanLogic\bin\Debug\netcoreapp3.1\booleanLogic.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\booleanLogic\booleanLogic\bin\Debug\netcoreapp3.1\booleanLogic.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\booleanLogic\booleanLogic\obj\Debug\netcoreapp3.1\booleanLogic.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\booleanLogic\booleanLogic\obj\Debug\netcoreapp3.1\booleanLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\C-Sharps-Projects\booleanLogic\booleanLogic\obj\Debug\netcoreapp3.1\booleanLogic.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\booleanLogic\booleanLogic\obj\Debug\netcoreapp3.1\booleanLogic.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\C-Sharps-Projects\booleanLogic\booleanLogic\obj\Debug\netcoreapp3.1\booleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\booleanLogic\booleanLogic\obj\Debug\netcoreapp3.1\booleanLogic.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\booleanLogic\booleanLogic\obj\Debug\netcoreapp3.1\booleanLogic.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\booleanLogic\booleanLogic\obj\Debug\netcoreapp3.1\booleanLogic.genruntimeconfig.cache
