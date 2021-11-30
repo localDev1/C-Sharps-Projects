@@ -19,14 +19,14 @@ namespace booleanLogic
             bool dui = Convert.ToBoolean(Console.ReadLine());
           
                        
-            //Introduce the Hourly Rate in decimal because we must calculate salary
+            //Enter the number speeding tickets
             Console.WriteLine("\n\tHow many speeding tickets do you have?");
             int tickets = Convert.ToInt32(Console.ReadLine());
             
             //qualification rules to determine if the applicant qualifies for car insurance:
             bool qualified = (age > 15 && dui == false && tickets <=3);
 
-            Console.WriteLine("\n\tQualified? \n" +qualified);
+            Console.WriteLine("\n\tQualified?\n  " +qualified);
 
            
             Console.ReadLine();
