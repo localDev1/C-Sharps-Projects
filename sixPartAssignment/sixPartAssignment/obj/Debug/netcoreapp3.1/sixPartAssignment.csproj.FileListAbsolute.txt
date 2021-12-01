@@ -1,0 +1,14 @@
+C:\Users\Fernando\source\repos\C-Sharps-Projects\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.exe
+C:\Users\Fernando\source\repos\C-Sharps-Projects\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.deps.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.runtimeconfig.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\C-Sharps-Projects\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\C-Sharps-Projects\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.genruntimeconfig.cache
