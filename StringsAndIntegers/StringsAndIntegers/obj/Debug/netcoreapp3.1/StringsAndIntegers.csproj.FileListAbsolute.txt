@@ -1,0 +1,14 @@
+C:\Users\Fernando\source\repos\C-Sharps-Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.exe
+C:\Users\Fernando\source\repos\C-Sharps-Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.deps.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.runtimeconfig.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\C-Sharps-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\C-Sharps-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.genruntimeconfig.cache
