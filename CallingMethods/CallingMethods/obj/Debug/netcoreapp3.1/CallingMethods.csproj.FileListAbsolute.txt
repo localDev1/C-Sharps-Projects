@@ -1,0 +1,13 @@
+C:\Users\Fernando\source\repos\C-Sharps-Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.exe
+C:\Users\Fernando\source\repos\C-Sharps-Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.deps.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.runtimeconfig.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\C-Sharps-Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\C-Sharps-Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.genruntimeconfig.cache
