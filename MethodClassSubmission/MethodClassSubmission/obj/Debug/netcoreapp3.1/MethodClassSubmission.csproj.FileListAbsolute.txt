@@ -1,0 +1,14 @@
+C:\Users\Fernando\source\repos\C-Sharps-Projects\MethodClassSubmission\MethodClassSubmission\bin\Debug\netcoreapp3.1\MethodClassSubmission.exe
+C:\Users\Fernando\source\repos\C-Sharps-Projects\MethodClassSubmission\MethodClassSubmission\bin\Debug\netcoreapp3.1\MethodClassSubmission.deps.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\MethodClassSubmission\MethodClassSubmission\bin\Debug\netcoreapp3.1\MethodClassSubmission.runtimeconfig.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\MethodClassSubmission\MethodClassSubmission\bin\Debug\netcoreapp3.1\MethodClassSubmission.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\MethodClassSubmission\MethodClassSubmission\bin\Debug\netcoreapp3.1\MethodClassSubmission.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\MethodClassSubmission\MethodClassSubmission\bin\Debug\netcoreapp3.1\MethodClassSubmission.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\C-Sharps-Projects\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\C-Sharps-Projects\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\MethodClassSubmission\MethodClassSubmission\obj\Debug\netcoreapp3.1\MethodClassSubmission.genruntimeconfig.cache
