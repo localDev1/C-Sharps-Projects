@@ -1,0 +1,14 @@
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ClassSubmission\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.exe
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ClassSubmission\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.deps.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ClassSubmission\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.runtimeconfig.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ClassSubmission\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ClassSubmission\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ClassSubmission\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ClassSubmission\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ClassSubmission\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ClassSubmission\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ClassSubmission\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ClassSubmission\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ClassSubmission\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ClassSubmission\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ClassSubmission\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.genruntimeconfig.cache
