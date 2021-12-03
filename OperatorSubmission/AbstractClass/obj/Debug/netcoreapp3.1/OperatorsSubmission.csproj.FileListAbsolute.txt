@@ -1,0 +1,13 @@
+C:\Users\Fernando\source\repos\C-Sharps-Projects\OperatorSubmission\AbstractClass\bin\Debug\netcoreapp3.1\OperatorsSubmission.exe
+C:\Users\Fernando\source\repos\C-Sharps-Projects\OperatorSubmission\AbstractClass\bin\Debug\netcoreapp3.1\OperatorsSubmission.deps.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\OperatorSubmission\AbstractClass\bin\Debug\netcoreapp3.1\OperatorsSubmission.runtimeconfig.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\OperatorSubmission\AbstractClass\bin\Debug\netcoreapp3.1\OperatorsSubmission.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\OperatorSubmission\AbstractClass\bin\Debug\netcoreapp3.1\OperatorsSubmission.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\OperatorSubmission\AbstractClass\bin\Debug\netcoreapp3.1\OperatorsSubmission.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\OperatorSubmission\AbstractClass\obj\Debug\netcoreapp3.1\OperatorsSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\C-Sharps-Projects\OperatorSubmission\AbstractClass\obj\Debug\netcoreapp3.1\OperatorsSubmission.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\OperatorSubmission\AbstractClass\obj\Debug\netcoreapp3.1\OperatorsSubmission.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\C-Sharps-Projects\OperatorSubmission\AbstractClass\obj\Debug\netcoreapp3.1\OperatorsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\OperatorSubmission\AbstractClass\obj\Debug\netcoreapp3.1\OperatorsSubmission.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\OperatorSubmission\AbstractClass\obj\Debug\netcoreapp3.1\OperatorsSubmission.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\OperatorSubmission\AbstractClass\obj\Debug\netcoreapp3.1\OperatorsSubmission.genruntimeconfig.cache
