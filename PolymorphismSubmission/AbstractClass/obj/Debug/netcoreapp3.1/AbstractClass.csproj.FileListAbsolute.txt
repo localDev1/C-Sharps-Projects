@@ -1,0 +1,13 @@
+C:\Users\Fernando\source\repos\C-Sharps-Projects\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.exe
+C:\Users\Fernando\source\repos\C-Sharps-Projects\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.deps.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.runtimeconfig.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\C-Sharps-Projects\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\C-Sharps-Projects\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.genruntimeconfig.cache
