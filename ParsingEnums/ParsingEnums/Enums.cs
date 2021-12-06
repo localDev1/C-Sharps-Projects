@@ -4,12 +4,12 @@ using System.Text;
 
 namespace ParsingEnums
 {
-    class Enums
+    static class Enums
     {
     }
 
-    //Enum for the days of the week.
-    public enum DaysOfWeek 
+    //Enum for the days of the week.    
+    public enum DiasSemana
     {
         Sunday,
         Monday,
