@@ -1,0 +1,14 @@
+C:\Users\Fernando\source\repos\C-Sharps-Projects\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.exe
+C:\Users\Fernando\source\repos\C-Sharps-Projects\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.deps.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.runtimeconfig.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\C-Sharps-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\C-Sharps-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.genruntimeconfig.cache
