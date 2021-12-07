@@ -90,18 +90,30 @@ namespace LambdaSubmission
             //Printing the list
             foreach(Employees emple in newList)
             {
-                Console.WriteLine("\n\n\tJoe " + emple.LastName + " Id = " + emple.Id);
+                Console.WriteLine("\n\tJoe " + emple.LastName + " Id = " + emple.Id);
             }
 
-            Console.WriteLine("\n\n\n\n\tUsing Lambda Expression: ");
+            Console.WriteLine("\n\n\n\n\tUsing Lambda Expression (same as above): ");
+
+            List<Employees> ListLambda = listEmployees.Where(name => name.FirstName == "Joe").ToList();
+
+            //Printing the list
+            foreach (Employees emple in ListLambda)
+            {
+                Console.WriteLine("\n\tJoe " + emple.LastName + " Id = " + emple.Id);
+            }
 
             //Making a list of all employees with an Id number greater than 5 Using Lambda Expression
             List<Employees> empLambda = listEmployees.Where(x => x.Id > 5).ToList();
 
+            //Using Lambda Expression 
+            Console.WriteLine("\n\n\n\n\tUsing Lambda Expression: ");
+
+
             //Printing the list
             foreach (Employees emple in empLambda)
             {
-                Console.WriteLine("\n\n\tThe Names with the Id greater than 5 are : " +emple.FirstName + " "+ emple.LastName + " Id = " + emple.Id);
+                Console.WriteLine("\n\tThe Names with the Id greater than 5 are : " +emple.FirstName + " "+ emple.LastName + " Id = " + emple.Id);
             }
 
             Console.ReadLine();
