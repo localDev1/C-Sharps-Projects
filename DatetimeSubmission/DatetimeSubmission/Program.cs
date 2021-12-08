@@ -12,21 +12,17 @@ namespace DatetimeSubmission
             //Asking the user a number
             Console.WriteLine("\n\n\tEnter a number less 24");
 
-            //Converting string to int
-            int x = Convert.ToInt32(Console.ReadLine());
+            //Converting string to double
+            double x = Convert.ToDouble(Console.ReadLine());
 
-            if (x < 24) 
-            {
-                //Converting int to datatime 
-                DateTime hours = new DateTime(1975, 3, 23, x, 59, 59);
+            //Creating datatime variable
+            DateTime hours = DateTime.Now;
 
-                Console.WriteLine("\n\n\tThe user hour is : " + hours.Hour);
-            }
+            //Adding hours to datatime variable
+            hours = hours.AddHours(x);
 
-            else 
-            {
-                Console.WriteLine("you dont introduce a number less 24");
-            }
+            Console.WriteLine("\n\n\tThe user hour is : " + hours);
+                           
             Console.ReadLine();
         }
     }
