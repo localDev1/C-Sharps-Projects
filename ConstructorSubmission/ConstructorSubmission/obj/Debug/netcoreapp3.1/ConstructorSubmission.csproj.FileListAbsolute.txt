@@ -1,0 +1,14 @@
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.exe
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.deps.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.runtimeconfig.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.genruntimeconfig.cache
