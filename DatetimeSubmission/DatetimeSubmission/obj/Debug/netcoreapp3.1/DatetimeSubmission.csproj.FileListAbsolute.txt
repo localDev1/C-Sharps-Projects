@@ -1,0 +1,14 @@
+C:\Users\Fernando\source\repos\C-Sharps-Projects\DatetimeSubmission\DatetimeSubmission\bin\Debug\netcoreapp3.1\DatetimeSubmission.exe
+C:\Users\Fernando\source\repos\C-Sharps-Projects\DatetimeSubmission\DatetimeSubmission\bin\Debug\netcoreapp3.1\DatetimeSubmission.deps.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\DatetimeSubmission\DatetimeSubmission\bin\Debug\netcoreapp3.1\DatetimeSubmission.runtimeconfig.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\DatetimeSubmission\DatetimeSubmission\bin\Debug\netcoreapp3.1\DatetimeSubmission.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\C-Sharps-Projects\DatetimeSubmission\DatetimeSubmission\bin\Debug\netcoreapp3.1\DatetimeSubmission.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\DatetimeSubmission\DatetimeSubmission\bin\Debug\netcoreapp3.1\DatetimeSubmission.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\DatetimeSubmission\DatetimeSubmission\obj\Debug\netcoreapp3.1\DatetimeSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\C-Sharps-Projects\DatetimeSubmission\DatetimeSubmission\obj\Debug\netcoreapp3.1\DatetimeSubmission.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\DatetimeSubmission\DatetimeSubmission\obj\Debug\netcoreapp3.1\DatetimeSubmission.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\C-Sharps-Projects\DatetimeSubmission\DatetimeSubmission\obj\Debug\netcoreapp3.1\DatetimeSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\DatetimeSubmission\DatetimeSubmission\obj\Debug\netcoreapp3.1\DatetimeSubmission.dll
+C:\Users\Fernando\source\repos\C-Sharps-Projects\DatetimeSubmission\DatetimeSubmission\obj\Debug\netcoreapp3.1\DatetimeSubmission.pdb
+C:\Users\Fernando\source\repos\C-Sharps-Projects\DatetimeSubmission\DatetimeSubmission\obj\Debug\netcoreapp3.1\DatetimeSubmission.genruntimeconfig.cache
+C:\Users\Fernando\source\repos\C-Sharps-Projects\DatetimeSubmission\DatetimeSubmission\obj\Debug\netcoreapp3.1\DatetimeSubmission.csproj.AssemblyReference.cache
