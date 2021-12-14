@@ -50,7 +50,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                //insuree.Quote = CalculateQuote(insuree);
+                insuree.Quote = CalculateQuote(insuree);
                 db.Insurees.Add(insuree);                
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -125,7 +125,8 @@ namespace CarInsurance.Controllers
             base.Dispose(disposing);
         }
 
-        private decimal Calculate_Quote([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
+        //private decimal Calculate_Quote([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
+        private decimal CalculateQuote(Insuree insuree)
         {
             decimal quote = 50.0m;
             int age = 0;
