@@ -134,7 +134,7 @@ namespace CarInsurance.Controllers
             //Calculating the age
             age = DateTime.Now.Year - insuree.DateOfBirth.Year;
             //Calculating the quote depending user age
-            if (age < 18)
+            if (age <= 18)
             {
                 quote += 100.0m;
             }
@@ -150,21 +150,29 @@ namespace CarInsurance.Controllers
             {
                 quote += 25.0m;
             }
-            
-            //Calcilating the quote using the car Brand and model (25 each one condition)
-            if (insuree.CarMake.ToLower() == "porsche" && insuree.CarModel.ToLower() == "911 carrera")
-                quote += 50.0m;
 
+            //Calculating the quote using the car Brand
+            if (insuree.CarMake.ToLower() == "porsche")                
+                 quote += 25.0m;
+                    
+               
+            //Calculating the quote using the car Brand and model (25 each one condition)
+            if (insuree.CarMake.ToLower() == "porsche" && insuree.CarModel.ToLower() == "911 carrera")
+                quote += 25.0m;
+
+            //Add $10 to the monthly total for every speeding ticket the user has.
             decimal tickets = decimal.Parse(insuree.SpeedingTickets.ToString()) * 10.0m;
             quote += tickets;
 
+            //If the user has ever had a DUI, add 25% to the total.
             if (insuree.DUI)
                 quote *= 1.25m;
 
+            //If it's full coverage, add 50% to the total.
             if (insuree.CoverageType)
                 quote *= 1.50m;
 
-            insuree.Quote = quote;
+            //insuree.Quote = quote;
             return quote;
         }
     }
